@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AAAA,QACE,gBAAiB,CAClB,KAGC,YAAa,CACb,mCAAoC,CACpC,gCAAiC","file":"main.27766c28.chunk.css","sourcesContent":[".margin {\n  margin-left: 10px;\n}\n\n.box {\n  display: grid;\n  grid-template-columns: repeat(3,1fr);\n  grid-template-rows: repeat(2,1fr);\n}"]}
